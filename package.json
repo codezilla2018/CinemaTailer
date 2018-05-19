@@ -1,0 +1,19 @@
+{
+  "name": "cinematailer",
+  "version": "1.0.0",
+  "description": "Nodejs twitter bot that tweets about latest movies with youtube trailer link",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codezilla2018/CinemaTailer.git"
+  },
+  "author": "Kasun Gayashan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codezilla2018/CinemaTailer/issues"
+  },
+  "homepage": "https://github.com/codezilla2018/CinemaTailer#readme"
+}
